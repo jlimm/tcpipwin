@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c1_server", "tcpiptutorial\tcpiptutorial.vcxproj", "{AE1E8BFB-2B38-461F-9E6E-63A0D79C36A6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c1_server", "c1_server\tcpiptutorial.vcxproj", "{AE1E8BFB-2B38-461F-9E6E-63A0D79C36A6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c1_client", "client\client.vcxproj", "{74A8D9B1-59E0-4CA6-A9B4-7B5139F22D25}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c1_client", "c1_client\client.vcxproj", "{74A8D9B1-59E0-4CA6-A9B4-7B5139F22D25}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c2_tcpudp", "tcpudp\tcpudp.vcxproj", "{2FE245C5-0560-4714-BF4C-060F4D68E498}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c2_tcpudp", "c2_tcpudp\tcpudp.vcxproj", "{2FE245C5-0560-4714-BF4C-060F4D68E498}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c3_endian_conv", "endian_conv\endian_conv.vcxproj", "{FAA2E718-96E3-4B8E-A431-A4D12F5EA792}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c3_endian_conv", "c3_endian_conv\endian_conv.vcxproj", "{FAA2E718-96E3-4B8E-A431-A4D12F5EA792}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c3_inet_nota", "inet_nota\inet_nota.vcxproj", "{8866CBAB-0CED-42F4-8DE5-2C29ADD372FD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c3_inet_ntoa", "c3_inet_ntoa\inet_nota.vcxproj", "{8866CBAB-0CED-42F4-8DE5-2C29ADD372FD}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c3_inet_addr", "c3_inet_addr\c3_inet_addr.vcxproj", "{1299FB1E-01DB-4E30-9887-C54E0497D333}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c3_bind_sock", "bind_sock\bind_sock.vcxproj", "{C9DDC50C-89C4-4DD6-8D4D-E290F43D10A3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c3_bind_sock", "c3_bind_sock\bind_sock.vcxproj", "{C9DDC50C-89C4-4DD6-8D4D-E290F43D10A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
